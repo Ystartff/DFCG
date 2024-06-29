@@ -1,0 +1,1 @@
+Epoch,Train Loss,Supervised Loss,Consistency Loss,Train IOU,Val Loss,Val IOU,Val DICE,Val SE,Val PC,Val F1,Val SP,Val ACC
