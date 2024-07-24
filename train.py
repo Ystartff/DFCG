@@ -51,7 +51,7 @@ parser.add_argument('--base_lr', type=float, default=0.01,
                     help='segmentation network learning rate')
 parser.add_argument('--seed', type=int, default=41, help='random seed')
 
-parser.add_argument('--labeled_bs', type=int, default=2,
+parser.add_argument('--labeled_bs', type=int, default=3,
                     help='labeled_batch_size per gpu')
 
 parser.add_argument('--consistency', type=float,
